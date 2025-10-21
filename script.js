@@ -94,4 +94,5 @@ document.addEventListener('keydown', e => {
 });
 
 generateFood();
+draw();
 setInterval(update, 100);
